@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: Because on random this algorithm take a lot of time more than others
+
+sort2 uses: merge sort
+
+How do you know?: Because is the fastest algorithm on random, and the mid on sorted being faster than Selection Big-Omega(n²) and slower than Bubble Big-Omega(n)
+
+sort3 uses: selection sort
+
+How do you know?: Just because it is not slower than Bubble numbers, but not faster than Merge number too, and his performance on sorted is the slower, which make sense according to the formulas
